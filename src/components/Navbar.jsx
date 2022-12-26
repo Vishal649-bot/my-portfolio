@@ -19,6 +19,10 @@ const Navbar = () => {
     },
     {
       item: 4,
+      name: 'Experience'
+    },
+    {
+      item: 4,
       name: 'Contact',
     }
     
