@@ -12,7 +12,7 @@ const SociaLink = () => {
                 <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://linkdin.com',
+            href: 'https://www.linkedin.com/in/vishal-babu-86b71420b/',
             style: 'rounded-tr-md'
         },
         {
@@ -23,7 +23,7 @@ const SociaLink = () => {
                 <FaGithub size={30}/>
                 </>
             ),
-            href: 'https://github.com',
+            href: 'https://github.com/Vishal649-bot',
             
         },
         {
